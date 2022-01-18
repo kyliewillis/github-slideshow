@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Lots of screen time today! 💻
 Use the left arrow to go back!
